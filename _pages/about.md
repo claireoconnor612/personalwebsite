@@ -15,7 +15,13 @@ Email me at
 
 ## Updates📣
 
-* Volunteered at AIxAccessibility Conference at Galladuate University, an AAAI sponsered event
-* Attended ASSETS 2025 Conference in Denver, Colorado
-* 
+* May 2026: Volunteered at AAAI AIxAccessibility Conference at Galladuate University
+* November 2025: Attended ASHA Conference in Washington, D.C.
+* October 2025: Attended ASSETS 2025 Conference in Denver, Colorado
+* May 2025: Volunteered at Language Science Fair at Planet Word Muesuem in Washington, D.C.
+* May 2025: Presented "I’m Sorry, Let Me Rephrase: AI-Powered Tools for AAC Users to Communicate Intent Effectively" at 42nd Annual HCIL Symposium
+* April 2025: Attended Generative AI and Accessibility Workshop: Surfacing Opportunities and Risks at CHI 2025
+* February 2025: Presented "How to Prompt: Empowering AAC Users to Leverage ChatGPT for Expanded Communication." at the Speech and Hearing Discussion Group of Greater Washington Area
+* August 2024: Started PhD program!
+* May 2024: Presented "Voice Assistive Technology for Activities of Daily Living: Developing an Alexa Telehealth Training for Adults with Cognitive-Communication Disorders" at CHI 2024 in Honolulu, HI
 
