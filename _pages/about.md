@@ -16,5 +16,6 @@ Email me at
 ## Updates📣
 
 * Volunteered at AIxAccessibility Conference at Galladuate University, an AAAI sponsered event
+* Attended ASSETS 2025 Conference in Denver, Colorado
 * 
 
