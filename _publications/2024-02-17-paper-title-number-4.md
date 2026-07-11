@@ -2,7 +2,7 @@
 title: "Voice Assistive Technology for Activities of Daily Living: Developing an Alexa Telehealth Training for Adults with Cognitive-Communication Disorders"
 collection: publications
 category: conferences
-permalink: '/publication/2024-02-17-paper-title-number-4](https://dl.acm.org/doi/10.1145/3613904.3642788'
+permalink: ''
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'CHI 2024'
