@@ -13,7 +13,8 @@ My name is Claire and I am a third year PhD student in the College of Informatio
 
 Email me at 
 
-## Updates
+## Updates📣
 
-*Volunteered at 
+* Volunteered at AIxAccessibility Conference at Galladuate University, an AAAI sponsered event
+* 
 
