@@ -1,6 +1,6 @@
 ---
 title: "Embodied Reflection Informing Design"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "This ongoing work aims to understand how autistic individuals and their caregivers reflect on their embodied interactions over time through affordances of shared objects. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
